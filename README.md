@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:22d3ee&height=200&section=header&text=Logeshwaran%20T&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Full-Stack%20Engineer%20%7C%20AWS%20Cloud%20%26%20Distributed%20Systems&descAlignY=55&descSize=18" alt="header" />
-</p>
+# Hi, I'm Logeshwaran 👋
 
 <p align="center">
   <a href="https://github.com/Logesh883">
@@ -72,26 +70,6 @@ OpenAI APIs · Anthropic Claude · AWS Bedrock · Retrieval-Augmented Generation
 
 Bachelor of Technology, Information Technology — Velalar College of Engineering and Technology
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Logesh883&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Logesh883&theme=tokyonight&hide_border=true" height="165" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logesh883&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-## 🐍 Contribution Graph
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Logesh883/Logesh883/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 ## 📫 Reach me
 
 tlogeshwaran2003@gmail.com
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:2563eb&height=100&section=footer" />
-</p>
