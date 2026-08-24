@@ -1,4 +1,17 @@
-# Hi, I'm Logeshwaran 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:22d3ee&height=200&section=header&text=Logeshwaran%20T&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Full-Stack%20Engineer%20%7C%20AWS%20Cloud%20%26%20Distributed%20Systems&descAlignY=55&descSize=18" alt="header" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Logesh883">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Software+Development+Engineer+%40+Incresco;Node.js+%7C+AWS+%7C+Event-Driven+Microservices;Building+AppHero+%E2%80%94+220%2C000%2B+users;Exploring+Agentic+AI+%26+RAG+patterns" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-2563eb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Email-tlogeshwaran2003%40gmail.com-22d3ee?style=flat-square&logo=gmail&logoColor=white" />
+</p>
 
 Software Development Engineer with 3+ years designing cloud-native, event-driven microservices and full-stack systems on AWS. I've delivered enterprise platforms supporting 220,000+ users, cutting API response times by 30% and backend processing overhead by 25% through asynchronous architecture, caching, and service orchestration redesign.
 
@@ -9,6 +22,10 @@ Software Development Engineer with 3+ years designing cloud-native, event-driven
 - 📍 Bengaluru, India
 
 ## 🛠️ Core Competencies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,ts,js,react,nextjs,tailwind,aws,docker,terraform,postgres,dynamodb,python,git,githubactions" />
+</p>
 
 **Backend & Architecture**
 Node.js · NestJS · Express.js · Microservices · Event-Driven Architecture · REST APIs · GraphQL · Distributed Systems · Serverless · High Availability · RBAC
@@ -55,6 +72,26 @@ OpenAI APIs · Anthropic Claude · AWS Bedrock · Retrieval-Augmented Generation
 
 Bachelor of Technology, Information Technology — Velalar College of Engineering and Technology
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Logesh883&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Logesh883&theme=tokyonight&hide_border=true" height="165" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logesh883&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Logesh883/Logesh883/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 ## 📫 Reach me
 
 tlogeshwaran2003@gmail.com
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:2563eb&height=100&section=footer" />
+</p>
